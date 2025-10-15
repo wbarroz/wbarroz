@@ -6,7 +6,7 @@ Embedded systems developer and data engineer transitioning into the **Web3 and B
 
 ## 🌐 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/wilson-pereira-barros) • [GitHub](https://github.com/wbarroz)
+[LinkedIn](https://www.linkedin.com/in/wilson-pereira-barros)
 
 ---
 
