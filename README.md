@@ -10,5 +10,4 @@ Embedded systems developer and data engineer transitioning into the **Web3 and B
 
 ---
 
-> “Building bridges between the physical and digital worlds — with data and blockchain.”
 
